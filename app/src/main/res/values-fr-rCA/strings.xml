@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NasaImageViewer</string>
+
+    <!-- Navigation Drawer Strings -->
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
+
+    <!-- Menu Titles -->
+    <string name="nav_home">Accueil</string>
+    <string name="nav_saved_images">Images enregistrées</string>
+    <string name="nav_about">À propos</string>
+
+    <!-- Activity Titles -->
+    <string name="title_activity_main">Activité principale</string>
+    <string name="title_activity_saved_images">Images enregistrées</string>
+    <string name="title_activity_image_detail">Détail de limage</string>
+    <string name="title_activity_about">À propos</string>
+
+    <!-- Miscellaneous -->
+    <string name="button_fetch_image">Récupérer limage</string>
+    <string name="button_save_image">Enregistrer limage</string>
+    <string name="button_view_saved_images">Voir les images enregistrées</string>
+    <string name="selected_date">Date sélectionnée :</string>
+    <string name="version_number">Version 1.0</string>
+    <string name="nav_header_title">Visionneuse dimages de la NASA</string>
+    <string name="nav_header_version">Version 1.0</string>
+    <string name="home_fragment_welcome">Bienvenue dans la visionneuse dimages de la NASA</string>
+</resources>
+

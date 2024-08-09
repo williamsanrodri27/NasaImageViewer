@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">NasaImageViewer</string>
+
+    <!-- Navigation Drawer Strings -->
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <!-- Menu Titles -->
+    <string name="nav_home">Home</string>
+    <string name="nav_saved_images">Saved Images</string>
+    <string name="nav_about">About</string>
+
+    <!-- Activity Titles -->
+    <string name="title_activity_main">Main Activity</string>
+    <string name="title_activity_saved_images">Saved Images</string>
+    <string name="title_activity_image_detail">Image Detail</string>
+    <string name="title_activity_about">About</string>
+
+    <!-- Miscellaneous -->
+    <string name="button_fetch_image">Fetch Image</string>
+    <string name="button_save_image">Save Image</string>
+    <string name="button_view_saved_images">View Saved Images</string>
+    <string name="selected_date">Selected Date:</string>
+    <string name="version_number">Version 1.0</string>
+    <string name="nav_header_title">NASA Image Viewer</string>
+    <string name="nav_header_version">Version 1.0</string>
+    <string name="action_help">Help</string>
+    <string name="home_fragment_welcome">Welcome to the NASA Image Viewer!</string>
+    <string name="button_delete">Delete</string>
+    <string name="hint_enter_new_item">Enter new item</string>
+    <string name="help_message">To use the NASA Image Viewer, select a date using the date picker and press the "Fetch Image" button to get the NASA Image of the Day for the specified date. Use the "Save Image" button to save the image.</string>
+    <string name="list_View_Items">listViewItems</string>
+    <string name="button_add_item">Add Item</string>
+    <string name="image_view_desc">NASA image</string>
+    <string name="hd_image_link">HD Image Link</string>
+    <string name="view_saved_images">View Saved Images</string>
+    <string name="save_image">Save Image</string>
+    <string name="image_view_description">Description of the image</string>
+    <string name="fetch_image">Fetch Image</string>
+    <string name="enter_new_item">Enter new item</string>
+    <string name="add_item_text">Add Item</string>
+    <string name="back_button_text">Back</string>
+    <string name="label_date">Date</string>
+    <string name="content_description_image_of_the_day">Image of the day</string>
+    <string name="hd_url_label">HD URL</string>
+    <string name="date_prefix">Date: </string>
+    <string name="no_hd_url_available">No HD URL available</string>
+    <string name="title_text">Title</string>
+    <string name="date_text">Date: %1$s</string>
+</resources>
